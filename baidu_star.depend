@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502015605 source:d:\c_code\baidu_star\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
